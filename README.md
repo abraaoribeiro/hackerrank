@@ -1,1 +1,1 @@
-# Exercícios resolvidos de lógica de programação da plataforma HackerRank
+# Exercícios resolvidos da plataforma HackerRank
