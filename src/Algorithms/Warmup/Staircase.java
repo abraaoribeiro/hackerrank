@@ -1,4 +1,4 @@
-package Warmup;
+package Algorithms.Warmup;
 
 public class Staircase {
     public static void main(String[] args) {
